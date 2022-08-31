@@ -1,4 +1,6 @@
 Movie List Project
-a. list out 80 movies
-b. click the certain one will show the info
-c. search engine function
+. Set Express to set Handlebars and use the template
+. install CSS & JavaScript from Bootstrap & create a static file for img files 
+. list out 80 movies, use 'each'to create a loop for view
+. click the certain one will show the info
+. search engine function
